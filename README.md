@@ -13,11 +13,12 @@ To get started, I download the Airlines dataset, which is provided in the airlin
 ## Requirements
 To run the code in the Jupyter Notebook, you will need to have the following packages installed:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+*pandas
+*numpy
+*matplotlib
+*seaborn
+*scikit-learn
+
 You can install these packages using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
